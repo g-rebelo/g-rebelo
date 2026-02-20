@@ -1,16 +1,21 @@
-## Hi there 👋
+# Gonçalo Rebelo
 
-<!--
-**g-rebelo/g-rebelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering graduate with a strong interest in Cybersecurity and secure system architectures.
 
-Here are some ideas to get you started:
+## Focus Areas
+- Network Security
+- Secure System Design
+- Cloud Security
+- SIEM & Log Analysis
+- Defensive Security Engineering
+- Risk Intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Foundations
+- Python
+- Linux
+- Networking
+- Security Principles
+- Log Analysis
+
+## Current Direction
+Developing practical security projects while strengthening knowledge in secure architectures, network defense, and cloud security.
